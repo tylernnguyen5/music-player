@@ -1,4 +1,4 @@
-# Music Player
+# JavaScript Music Player
 
 I have always interested in how a music player on a smartphone or a website is implemented.
 Through this project, I learned how to work with the HTML audio element and its events.
